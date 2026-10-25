@@ -103,7 +103,7 @@ if not RENDER_EXTERNAL_HOSTNAME:
 WEBHOOK_URL = f"https://{RENDER_EXTERNAL_HOSTNAME}{WEBHOOK_PATH}"
 
 # ======================== Bot sozlamalari ========================
-BOT_USERNAME = "Filmkodlari_bot"
+BOT_USERNAME = "YagonaKino24Bot"
 CHANNEL_USERNAME = "@insta_vide0lar"
 CHANNEL_URL = "https://t.me/insta_vide0lar"
 
